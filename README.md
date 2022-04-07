@@ -4,4 +4,4 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Stacks and Queues-Lab
+1. [**Stacks and Queues-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/1.%20Stacks%20and%20Queues-Lab)
