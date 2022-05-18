@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\bin\Debug\net5.0\P02.2X2_Squares_in_Matrix.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\refint\P02.2X2_Squares_in_Matrix.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\P02.2X2_Squares_in_Matrix.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P02.2X2_Squares_in_Matrix\obj\Debug\net5.0\ref\P02.2X2_Squares_in_Matrix.dll

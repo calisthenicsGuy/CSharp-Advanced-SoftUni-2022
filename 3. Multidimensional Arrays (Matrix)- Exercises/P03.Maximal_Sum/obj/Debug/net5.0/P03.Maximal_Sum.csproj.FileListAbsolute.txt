@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\bin\Debug\net5.0\P03.Maximal_Sum.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\refint\P03.Maximal_Sum.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\P03.Maximal_Sum.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P03.Maximal_Sum\obj\Debug\net5.0\ref\P03.Maximal_Sum.dll
