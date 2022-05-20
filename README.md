@@ -7,4 +7,4 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 1. [**Stacks and Queues-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/1.%20Stacks%20and%20Queues-Lab)
 2. [**Stacks and Queues-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/2.%20Stacks%20and%20Queues-Exersices)
 3. [**Multidimensional Arrays (Matrix)**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/3.%20Multidimensional%20Arrays%20(Matrix))
-4. [****]()
+4. [****](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/5.%20Sets%20and%20Dictionaries%20Advanced-Lab)
