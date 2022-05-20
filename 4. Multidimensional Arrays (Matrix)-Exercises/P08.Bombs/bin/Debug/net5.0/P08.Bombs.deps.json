@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P08.Bombs/1.0.0": {
+        "runtime": {
+          "P08.Bombs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P08.Bombs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

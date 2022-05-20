@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\bin\Debug\net5.0\P05.Snake_Moves.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\refint\P05.Snake_Moves.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\P05.Snake_Moves.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Matrix-Exercises\P05.Snake_Moves\obj\Debug\net5.0\ref\P05.Snake_Moves.dll
