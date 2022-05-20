@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\bin\Debug\net5.0\P8.SoftUni_Party.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\refint\P8.SoftUni_Party.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\P8.SoftUni_Party.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P8.SoftUni_Party\obj\Debug\net5.0\ref\P8.SoftUni_Party.dll

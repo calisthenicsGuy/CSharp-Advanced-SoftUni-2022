@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\bin\Debug\net5.0\P05.Unique_Names.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\refint\P05.Unique_Names.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\P05.Unique_Names.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P05.Unique_Names\obj\Debug\net5.0\ref\P05.Unique_Names.dll

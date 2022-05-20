@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\bin\Debug\net5.0\P03.Product_Shop.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\refint\P03.Product_Shop.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\P03.Product_Shop.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P03.Product_Shop\obj\Debug\net5.0\ref\P03.Product_Shop.dll

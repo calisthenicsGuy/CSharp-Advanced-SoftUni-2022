@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\bin\Debug\net5.0\P01.Count_Same_Values_in_Array.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\refint\P01.Count_Same_Values_in_Array.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\P01.Count_Same_Values_in_Array.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Count_Same_Values_in_Array\obj\Debug\net5.0\ref\P01.Count_Same_Values_in_Array.dll

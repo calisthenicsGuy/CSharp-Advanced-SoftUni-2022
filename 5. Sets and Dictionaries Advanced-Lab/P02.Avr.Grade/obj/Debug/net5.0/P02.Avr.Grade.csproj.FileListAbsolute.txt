@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\bin\Debug\net5.0\P02.Avr.Grade.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\refint\P02.Avr.Grade.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\P02.Avr.Grade.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Avr.Grade\obj\Debug\net5.0\ref\P02.Avr.Grade.dll

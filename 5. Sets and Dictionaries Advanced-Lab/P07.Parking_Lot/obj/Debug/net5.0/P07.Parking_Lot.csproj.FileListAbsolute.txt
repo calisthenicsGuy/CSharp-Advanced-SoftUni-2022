@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\bin\Debug\net5.0\P07.Parking_Lot.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\refint\P07.Parking_Lot.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\P07.Parking_Lot.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P07.Parking_Lot\obj\Debug\net5.0\ref\P07.Parking_Lot.dll
