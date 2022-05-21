@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\bin\Debug\netcoreapp3.1\P02.Knights_of_Honor.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P02.Knights_of_Honor\obj\Debug\netcoreapp3.1\P02.Knights_of_Honor.genruntimeconfig.cache

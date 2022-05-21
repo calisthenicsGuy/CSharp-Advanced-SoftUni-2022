@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\bin\Debug\netcoreapp3.1\P08.List_Of_Predicates.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.List_Of_Predicates\obj\Debug\netcoreapp3.1\P08.List_Of_Predicates.genruntimeconfig.cache

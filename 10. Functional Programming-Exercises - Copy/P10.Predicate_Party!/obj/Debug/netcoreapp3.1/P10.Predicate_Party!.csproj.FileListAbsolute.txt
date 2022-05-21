@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\bin\Debug\netcoreapp3.1\P10.Predicate_Party!.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P10.Predicate_Party!\obj\Debug\netcoreapp3.1\P10.Predicate_Party!.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\bin\Debug\netcoreapp3.1\P07.Predicate_For_Names.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P07.Predicate_For_Names\obj\Debug\netcoreapp3.1\P07.Predicate_For_Names.genruntimeconfig.cache
