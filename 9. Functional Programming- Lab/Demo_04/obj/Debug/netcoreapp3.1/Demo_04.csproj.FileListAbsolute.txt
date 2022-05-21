@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\bin\Debug\netcoreapp3.1\Demo_04.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\Demo_04\obj\Debug\netcoreapp3.1\Demo_04.genruntimeconfig.cache
