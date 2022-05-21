@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\refint\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\ref\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\bin\Debug\net5.0\P01.Unique_Usernames.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\refint\P01.Unique_Usernames.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\P01.Unique_Usernames.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P01.Unique_Usernames\obj\Debug\net5.0\ref\P01.Unique_Usernames.dll

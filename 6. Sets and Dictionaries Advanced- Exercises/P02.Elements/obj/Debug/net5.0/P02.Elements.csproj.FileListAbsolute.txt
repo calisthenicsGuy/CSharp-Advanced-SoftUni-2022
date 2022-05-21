@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\refint\P02.Elements.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\ref\P02.Elements.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\bin\Debug\net5.0\P02.Elements.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\refint\P02.Elements.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\P02.Elements.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P02.Elements\obj\Debug\net5.0\ref\P02.Elements.dll

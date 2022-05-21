@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\bin\Debug\netcoreapp3.1\P04..pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-2022-Sets_and_Dictionaries_Advanced-Exercises\P04\obj\Debug\netcoreapp3.1\P04..genruntimeconfig.cache
