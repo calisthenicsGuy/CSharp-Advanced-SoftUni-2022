@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\bin\Debug\netcoreapp3.1\P08.Custom_Comparator.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P08.Custom_Comparator\obj\Debug\netcoreapp3.1\P08.Custom_Comparator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\bin\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P04.Find_Evens_or_Odds\obj\Debug\netcoreapp3.1\P04.Find_Evens_or_Odds.genruntimeconfig.cache
