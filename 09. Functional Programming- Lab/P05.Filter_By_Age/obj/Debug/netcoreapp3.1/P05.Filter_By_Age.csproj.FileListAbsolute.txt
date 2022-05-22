@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\bin\Debug\netcoreapp3.1\P05.Filter_By_Age.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P05.Filter_By_Age\obj\Debug\netcoreapp3.1\P05.Filter_By_Age.genruntimeconfig.cache

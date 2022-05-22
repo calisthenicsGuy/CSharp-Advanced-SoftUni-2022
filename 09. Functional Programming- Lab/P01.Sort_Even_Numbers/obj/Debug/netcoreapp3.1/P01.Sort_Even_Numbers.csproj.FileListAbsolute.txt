@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\bin\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P01.Sort_Even_Numbers\obj\Debug\netcoreapp3.1\P01.Sort_Even_Numbers.genruntimeconfig.cache

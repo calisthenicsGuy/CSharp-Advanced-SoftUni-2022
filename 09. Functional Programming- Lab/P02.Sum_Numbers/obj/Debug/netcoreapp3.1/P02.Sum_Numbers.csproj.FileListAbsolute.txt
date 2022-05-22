@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\bin\Debug\netcoreapp3.1\P02.Sum_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P02.Sum_Numbers\obj\Debug\netcoreapp3.1\P02.Sum_Numbers.genruntimeconfig.cache

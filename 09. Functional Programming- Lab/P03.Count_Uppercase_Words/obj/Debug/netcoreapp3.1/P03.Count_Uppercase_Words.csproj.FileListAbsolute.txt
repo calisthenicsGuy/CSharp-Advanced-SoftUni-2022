@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\bin\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming\P03.Count_Uppercase_Words\obj\Debug\netcoreapp3.1\P03.Count_Uppercase_Words.genruntimeconfig.cache
