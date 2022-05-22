@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\bin\Debug\netcoreapp3.1\Implementing_Linked_List.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Implementing_Linked_List\Implementing_Linked_List\obj\Debug\netcoreapp3.1\Implementing_Linked_List.genruntimeconfig.cache
