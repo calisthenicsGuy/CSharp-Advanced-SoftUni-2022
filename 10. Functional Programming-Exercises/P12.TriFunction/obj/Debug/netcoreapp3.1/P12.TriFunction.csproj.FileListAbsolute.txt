@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Functional_Programming-Exercises\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.genruntimeconfig.cache
