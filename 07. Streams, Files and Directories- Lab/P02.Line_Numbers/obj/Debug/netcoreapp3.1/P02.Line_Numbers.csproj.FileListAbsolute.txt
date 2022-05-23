@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\bin\Debug\netcoreapp3.1\P02.Line_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P02.Line_Numbers\obj\Debug\netcoreapp3.1\P02.Line_Numbers.genruntimeconfig.cache

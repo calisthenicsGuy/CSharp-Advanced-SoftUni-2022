@@ -1,0 +1,6 @@
+red 0 - bin
+red 1 - bin
+red 2 - bin
+red 3 - bin
+red 4 - bin
+red 5 - bin

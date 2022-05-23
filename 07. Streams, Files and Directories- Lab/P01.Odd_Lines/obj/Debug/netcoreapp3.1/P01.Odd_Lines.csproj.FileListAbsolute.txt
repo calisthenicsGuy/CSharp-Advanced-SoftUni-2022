@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\bin\Debug\netcoreapp3.1\P01.Odd_Lines.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-SoftUni-Streams_Files_and_Directories\P01.Odd_Lines\obj\Debug\netcoreapp3.1\P01.Odd_Lines.genruntimeconfig.cache
