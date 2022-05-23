@@ -6,5 +6,9 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 
 1. [**Stacks and Queues-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/1.%20Stacks%20and%20Queues-Lab)
 2. [**Stacks and Queues-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/2.%20Stacks%20and%20Queues-Exersices)
-3. [**Multidimensional Arrays (Matrix)**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/3.%20Multidimensional%20Arrays%20(Matrix))
-4. [**Sets and Dictionaries Advanced-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/5.%20Sets%20and%20Dictionaries%20Advanced-Lab)
+3. [**Multidimensional Arrays (Matrix)-Exercises**]()
+4. [**Multidimensional Arrays (Matrix)**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/3.%20Multidimensional%20Arrays%20(Matrix))
+5. [**Sets and Dictionaries Advanced-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/5.%20Sets%20and%20Dictionaries%20Advanced-Lab)
+6. [**06. Sets and Dictionaries Advanced- Exercises**]()
+7. [**Streams, Files and Directories- Lab**]()
+8. [**Streams, Files and Directories-Exercises**]()
