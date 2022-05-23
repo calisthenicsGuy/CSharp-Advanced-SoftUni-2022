@@ -12,3 +12,8 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 6. [**06. Sets and Dictionaries Advanced- Exercises**]()
 7. [**Streams, Files and Directories- Lab**]()
 8. [**Streams, Files and Directories-Exercises**]()
+9. [**Functional Programming- Lab**]()
+10. [**Functional Programming-Exercises**]()
+11. [**Defining classes- Lab**]()
+12. [**Defining classes-Exercises**]()
+13. [**Implementing Linked List-Lab**]()
