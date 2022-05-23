@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/oyndbKkAqmxKOScaNYSAEZV6Hs9JmGXXsYkAvrdcaqFjrarrajdV9BAE1GkFhQdbhlSt+BQgKP97FUElhInw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharp-Advanced-SoftUni-2022-Defining_Classes\\P00.Namespaces_Demo\\P00.Namespaces_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\spectre.console\\0.44.0\\spectre.console.0.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}

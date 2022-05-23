@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\bin\Debug\net5.0\P00.Static_Classes.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\refint\P00.Static_Classes.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\P00.Static_Classes.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Static_Classes\obj\Debug\net5.0\ref\P00.Static_Classes.dll

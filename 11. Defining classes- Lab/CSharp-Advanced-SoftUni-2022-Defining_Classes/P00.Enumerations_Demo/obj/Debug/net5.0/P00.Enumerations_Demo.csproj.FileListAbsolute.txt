@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\bin\Debug\net5.0\P00.Enumerations_Demo.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\refint\P00.Enumerations_Demo.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\P00.Enumerations_Demo.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P00.Enumerations_Demo\obj\Debug\net5.0\ref\P00.Enumerations_Demo.dll

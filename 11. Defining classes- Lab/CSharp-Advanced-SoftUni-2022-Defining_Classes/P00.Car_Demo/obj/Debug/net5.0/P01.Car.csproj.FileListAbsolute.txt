@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.exe
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\bin\Debug\net5.0\P01.Car.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\refint\P01.Car.dll
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.pdb
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\P01.Car.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced-SoftUni-2022-Defining_Classes\P01.Car\obj\Debug\net5.0\ref\P01.Car.dll

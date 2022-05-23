@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P00.Static_Classes/1.0.0": {
+        "runtime": {
+          "P00.Static_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P00.Static_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
