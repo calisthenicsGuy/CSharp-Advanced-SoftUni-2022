@@ -16,3 +16,4 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 10. [**Functional Programming-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/10.%20Functional%20Programming-Exercises)
 11. [**Defining classes- Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/11.%20Defining%20classes-%20Lab)
 12. [**Defining classes-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/12.%20Defining%20classes-Exercises)
+13. 
