@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\bin\Debug\netcoreapp3.1\Classroom_Task.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\Classroom\obj\Debug\netcoreapp3.1\Classroom_Task.genruntimeconfig.cache

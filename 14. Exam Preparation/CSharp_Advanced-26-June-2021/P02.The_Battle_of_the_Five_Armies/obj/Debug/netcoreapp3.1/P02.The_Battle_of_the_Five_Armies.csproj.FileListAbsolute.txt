@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.exe
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.dll
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\bin\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.dll
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P02.The_Battle_of_the_Five_Armies\obj\Debug\netcoreapp3.1\P02.The_Battle_of_the_Five_Armies.genruntimeconfig.cache

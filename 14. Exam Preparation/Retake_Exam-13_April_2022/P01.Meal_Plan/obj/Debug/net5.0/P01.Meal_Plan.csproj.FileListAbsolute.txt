@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.exe
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.deps.json
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.dll
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\bin\Debug\net5.0\P01.Meal_Plan.pdb
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.dll
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\refint\P01.Meal_Plan.dll
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.pdb
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\P01.Meal_Plan.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P01.Meal_Plan\obj\Debug\net5.0\ref\P01.Meal_Plan.dll

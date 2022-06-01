@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\bin\Debug\netcoreapp3.1\The_Fight_for_Gondor.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam_Preparation-CSharp-Advanced-2022\The_Fight_for_Gondor\obj\Debug\netcoreapp3.1\The_Fight_for_Gondor.genruntimeconfig.cache

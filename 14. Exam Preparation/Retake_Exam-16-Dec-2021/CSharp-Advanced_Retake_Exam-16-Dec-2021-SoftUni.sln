@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Blacksmith", "P01.Blacksmith\P01.Blacksmith.csproj", "{C5684495-97FA-42B8-A035-7E086A3F6AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5684495-97FA-42B8-A035-7E086A3F6AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5684495-97FA-42B8-A035-7E086A3F6AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5684495-97FA-42B8-A035-7E086A3F6AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5684495-97FA-42B8-A035-7E086A3F6AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD1C5F9-4B71-4D81-934E-525BC3F1329B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.exe
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.dll
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\bin\Debug\netcoreapp3.1\P03.Street_Racing.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.dll
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam_Preparation-CSharp_Advanced-26-June-2021\P03.Street_Racing\obj\Debug\netcoreapp3.1\P03.Street_Racing.genruntimeconfig.cache
