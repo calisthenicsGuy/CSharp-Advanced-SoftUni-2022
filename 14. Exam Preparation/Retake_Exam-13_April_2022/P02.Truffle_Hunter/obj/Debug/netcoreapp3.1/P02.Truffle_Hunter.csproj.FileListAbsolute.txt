@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\bin\Debug\netcoreapp3.1\P02.Truffle_Hunter.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P02.Truffle_Hunter\obj\Debug\netcoreapp3.1\P02.Truffle_Hunter.genruntimeconfig.cache

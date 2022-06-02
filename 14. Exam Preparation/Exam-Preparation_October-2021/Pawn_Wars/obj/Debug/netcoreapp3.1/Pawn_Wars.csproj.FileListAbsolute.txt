@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\bin\Debug\netcoreapp3.1\Pawn_Wars.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation_October-2021_SoftUni\Pawn_Wars\obj\Debug\netcoreapp3.1\Pawn_Wars.genruntimeconfig.cache

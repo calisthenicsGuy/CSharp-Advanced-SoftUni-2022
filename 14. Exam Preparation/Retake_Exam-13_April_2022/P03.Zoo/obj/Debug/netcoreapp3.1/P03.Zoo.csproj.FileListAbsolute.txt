@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\bin\Debug\netcoreapp3.1\P03.Zoo.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp-Advanced_Retake_Exam-13_April_2022-SoftUni\P03.Zoo\obj\Debug\netcoreapp3.1\P03.Zoo.genruntimeconfig.cache
