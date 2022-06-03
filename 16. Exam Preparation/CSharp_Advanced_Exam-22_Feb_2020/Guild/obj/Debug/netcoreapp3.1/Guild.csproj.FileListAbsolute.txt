@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Guild\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache
