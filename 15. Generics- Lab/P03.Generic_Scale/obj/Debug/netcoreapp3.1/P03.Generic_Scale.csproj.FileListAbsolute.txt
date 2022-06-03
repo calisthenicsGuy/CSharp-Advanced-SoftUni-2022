@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\bin\Debug\netcoreapp3.1\P03.Generic_Scale.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P03.Generic_Scale\obj\Debug\netcoreapp3.1\P03.Generic_Scale.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\bin\Debug\netcoreapp3.1\P01.Box_of_T.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\P01.Box_of_T\obj\Debug\netcoreapp3.1\P01.Box_of_T.genruntimeconfig.cache

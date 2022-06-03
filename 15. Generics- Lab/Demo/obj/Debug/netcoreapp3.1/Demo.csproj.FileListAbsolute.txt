@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp_Advanced_SoftUni_Generics\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
