@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.genruntimeconfig.cache

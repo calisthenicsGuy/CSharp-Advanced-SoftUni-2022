@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\bin\Debug\netcoreapp3.1\Loot_box.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced_Exam-22_Feb_2020\Loot_box\obj\Debug\netcoreapp3.1\Loot_box.genruntimeconfig.cache
