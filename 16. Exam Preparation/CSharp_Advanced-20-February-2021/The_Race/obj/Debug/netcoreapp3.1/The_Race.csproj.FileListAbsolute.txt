@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\bin\Debug\netcoreapp3.1\The_Race.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CSharp_Advanced-20-February-2021\The_Race\obj\Debug\netcoreapp3.1\The_Race.genruntimeconfig.cache
