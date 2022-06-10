@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\bin\Debug\net5.0\P01.Bakery_Shop.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\refint\P01.Bakery_Shop.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\P01.Bakery_Shop.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P01.Bakery_Shop\obj\Debug\net5.0\ref\P01.Bakery_Shop.dll
