@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\bin\Debug\net5.0\P03.Fishing_Net.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\refint\P03.Fishing_Net.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\P03.Fishing_Net.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\CShrap-Advanced_Exam-20_February_2022-SoftUni\P03.Fishing_Net\obj\Debug\net5.0\ref\P03.Fishing_Net.dll

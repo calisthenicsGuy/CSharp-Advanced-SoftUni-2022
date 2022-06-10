@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\P02.Beaver_at_Work.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\P02.Beaver_at_Work.csproj",
       "projectName": "P02.Beaver_at_Work",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\P02.Beaver_at_Work.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\P02.Beaver_at_Work.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P02.Beaver_at_Work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

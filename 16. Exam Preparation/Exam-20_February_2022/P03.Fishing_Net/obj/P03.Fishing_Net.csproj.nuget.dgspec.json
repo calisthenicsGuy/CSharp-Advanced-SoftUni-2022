@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj": {
+    "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj",
         "projectName": "P03.Fishing_Net",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\P03.Fishing_Net.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\C# Advanced\\Exam Preparation\\CShrap-Advanced_Exam-20_February_2022-SoftUni\\P03.Fishing_Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
