@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache

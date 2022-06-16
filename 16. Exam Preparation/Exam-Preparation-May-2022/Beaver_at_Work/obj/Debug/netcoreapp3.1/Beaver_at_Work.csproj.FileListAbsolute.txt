@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.exe
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.deps.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\bin\Debug\netcoreapp3.1\Beaver_at_Work.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.dll
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.pdb
+C:\Users\HP\source\repos\C# Advanced\Exam Preparation\Exam-Preparation-May-2022-SoftUni\Beaver_at_Work\obj\Debug\netcoreapp3.1\Beaver_at_Work.genruntimeconfig.cache

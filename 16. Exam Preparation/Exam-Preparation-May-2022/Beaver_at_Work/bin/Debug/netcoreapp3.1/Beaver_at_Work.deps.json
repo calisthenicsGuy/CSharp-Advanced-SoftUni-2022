@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Beaver_at_Work/1.0.0": {
+        "runtime": {
+          "Beaver_at_Work.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beaver_at_Work/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
