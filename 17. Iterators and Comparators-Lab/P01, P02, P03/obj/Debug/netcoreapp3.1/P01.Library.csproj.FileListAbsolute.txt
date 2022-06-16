@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\bin\Debug\netcoreapp3.1\P01.Library.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\P01.Library\obj\Debug\netcoreapp3.1\P01.Library.genruntimeconfig.cache

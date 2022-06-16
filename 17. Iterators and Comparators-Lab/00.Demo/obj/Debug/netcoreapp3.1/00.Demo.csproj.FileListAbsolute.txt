@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.exe
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.deps.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\bin\Debug\netcoreapp3.1\00.Demo.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.dll
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.pdb
+C:\Users\HP\source\repos\C# Advanced\CSharp-Advanced-Iterators_and_Comparators-2022\00.Demo\obj\Debug\netcoreapp3.1\00.Demo.genruntimeconfig.cache
