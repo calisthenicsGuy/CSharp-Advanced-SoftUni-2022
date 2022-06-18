@@ -28,7 +28,7 @@ The [**C# Advanced**](https://softuni.bg/trainings/3699/csharp-advanced-may-2022
 10. [**Functional Programming-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/10.%20Functional%20Programming-Exercises)
 11. [**Defining classes- Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/11.%20Defining%20classes-%20Lab)
 12. [**Defining classes-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/12.%20Defining%20classes-Exercises)
-13. [**Implementing Linked List-Lab**]([https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/13.%20Implementing%20Linked%20List-La](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/13.%20Implementing%20Linked%20List-Workshop)b)
+13. [**Implementing Linked List-Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/13.%20Implementing%20Linked%20List-Workshop)
 14. [**Implementing Stack and Queue**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/14.%20Implementing%20Stack%20and%20Queue)
 15. [**Generics- Lab**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/15.%20Generics-%20Lab)
 16. [**Generics-Exercises**](https://github.com/calisthenicsGuy/CSharp-Advanced-SoftUni-2022/tree/main/16.%20Generics-Exercises)
